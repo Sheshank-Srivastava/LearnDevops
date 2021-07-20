@@ -1,2 +1,3 @@
 This is File 3.
 Secon line i file3 at master branch
+adding a line on devBranch.
